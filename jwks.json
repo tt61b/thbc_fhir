@@ -2,16 +2,14 @@
     "keys": [
         {
             "kty": "RSA",
-            "use": "sig",
             "alg": "RS384",
-            "n": "nQ8fIXTA7umxirsVCEpcVwZF46HuRPHa1KaOcqVJazypDmTA-yTcfuxUfxiZ6mzGgqSNZWszzu02KxDCfOGBbtbwDTr-ZsIAEtHt_CrdNG1C5s2g9raeF57z1V1jvF88CE0oadN6BjNxB2oZ8qrrul1XJkM-XMmX8HPeG7AzFJ0TYb4ODJllnf1xHLXRMeAxdCJ8L_bB4ey1GJEIafNuINS5bxxcS4fI0nQuDFDBt2gBBE1n9b0yi3Sn3xJiyIxxuoU-emfgUvHM0Uz74SWPR1wmvjSUDXIe0Oepijfr6g-iTl3IfmjV9cYD_a4tIIkY-aRq_EPY7kOuwEiT_KSxFQ",
+            "n": "8Hy6emMAcsnZZ8-XbGzWvrGy13cVr39vwQQHlWG1VobPATlhCHNQKqz-DbnpuCIOumQtJ22dKbWADQWNAY0Jts7DcPaOuQu8ixurlwUHBQmOzb3lDMFaz9_tEsXHCRcWVgEAwdV-A7Lw6Rb-1cQhNR6OXEuv14Z9--SXpv_GvywKOTs0VA0m5dkm9Ozif3vONrL3qt7v9KAI4HllwPbTdAlxc8z06GZS7CIFDnSuRJhgbs6Lng2pQ69u5fzRMa6TvPjhK6R69XyG_kyJAEe7dk_8HYoIp9ebY8JJUbpo2k05lqbwQ554dGVl_s8PuWym55CFq3gxz3f1BNDsBMPGLQ",
             "e": "AQAB",
-            "kid":  "6b5d31c7-a9ff-4fd6-af7a-1bdb931692a1",
             "key_ops": [
                 "verify"
             ],
-            "ext": true
+            "ext": true,
+            "kid": "2e89ae0726024aafba4fc4e60caf06ea"
         }
     ]
 }
-

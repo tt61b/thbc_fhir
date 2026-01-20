@@ -6,7 +6,7 @@
             "alg": "RS384",
             "n": "tk3fUlHuN5tDV-KVSmssvFTkKLX5jxEXqa3_McuXccKUzM7Pt5rH9J6_clZX5kLAbvf-wkg7LeSW8LND4w2kuRmB2xmT9GGCgoWzegy0R3yq8a0Kdz_GA4KN99pkATfF-EK2j7pdHtWttH7yoYDwY85s8FJ7s1Ilj0DqYgaY2fbyjAyc8tZeMtG7xQEPE3h52T96r7F_AumAUqpEKgVFDIcttcx87YLTSiJvZ7m443NyGWaIf_TqiuliCJeZj4HPPpJ0QhiDgdNvLigqwFPoBU6aTAxzThAhG7FdQmTqX7w50ezsPpC3r2cW0JSpqG79sCSYIp8zvyl9USGLHH2aHQ",
             "e": "AQAB",
-            "kid": "46fd6f23990c061f21ecca1164df0b4fd21dc58ee26f6754d1f9bb219b7c9259",
+            "kid": "9e773347128af30736d05c335f6515acb63b4e302be11cb973e3a391aa95eed7",
             "key_ops": [
                 "verify"
             ],
@@ -14,4 +14,3 @@
         }
     ]
 }
-

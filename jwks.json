@@ -8,8 +8,10 @@
             "key_ops": [
                 "verify"
             ],
+            "use": "sig",
             "ext": true,
             "kid": "4bcfb0b846f74a3898cb4bb871744340"
         }
     ]
 }
+

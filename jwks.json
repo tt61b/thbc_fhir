@@ -9,8 +9,9 @@
                 "verify"
             ],
             "ext": true,
-			"use": "sig"
+			"use": "sig",
             "kid": "8a7c0685d14f4807ba4755c30ca4058a"
         }
     ]
 }
+
